@@ -112,5 +112,24 @@ Fes-lo anar amb **"./"**:
 ./arxiu.py
 ```
 
+## Superusuari i SUDO
 
+Als equips UNIX hi ha el concepte de **superusuari**, és a dir usuaris que tenen permissos d'administració.
 
+Una manera d'aconseguir permissos com a **superusuari** sense canviar d'usuari, és amb la comanda **"sudo""**.
+
+```bash
+sudo ls
+```
+
+La comanda **sudo** (superuser do), executa una comanda com a superusuari, enlloc de com a l'usuari que hi ha logat.
+
+És important fer servir la comanda quan és necessari, i no fer-ne un abús, perquè pot exposar el sistema a problemes de seguretat.
+
+Normalment, només s'ha de fer servir per gestionar paquets:
+
+```bash
+sudo apt install nompaquet
+```
+
+Si cal sudo per fer altres accions, com posar en funcionament servidors, pot denotar un problema d'assignació de permissos.
