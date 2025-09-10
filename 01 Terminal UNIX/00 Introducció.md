@@ -1,5 +1,5 @@
 
-**Nota:**[Tutoral instal·lació](https://github.com/optimisme/DAM-LlenguatgeMarques/blob/main/00-Instal·lació/Teoria.md) 
+**Nota:**[Tutorial instal·lació](https://github.com/optimisme/DAM-LlenguatgeMarques/blob/main/00-Instal·lació/Teoria.md) 
 
 # Terminal
 
