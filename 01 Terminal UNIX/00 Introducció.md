@@ -1,3 +1,6 @@
+
+**Nota:**[Tutoral instal·lació](https://github.com/optimisme/DAM-LlenguatgeMarques/blob/main/00-Instal·lació/Teoria.md) 
+
 # Terminal
 
 El terminal permet accedir i gestionar a l'ordinador a partir de comandes.
